@@ -1,0 +1,127 @@
+#contact{
+    margin-top: 10rem;
+    font-family: cursive;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  #contact h2{
+    color: brown;
+  }
+   form .input-box{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+  }
+  .input-box .input-field{
+    width: 27%;
+  } 
+  .input-field{
+    padding: 7px;
+  }
+  input{
+    width: 83%;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 20px;
+    border-width: 3px;
+    text-align:start;
+  }
+  input:hover{
+    border-color: #f704c2;
+    border-radius: 5px;
+  }
+  /* textarea-field field */
+  .textarea-field{
+    text-align: center;
+  }
+  .textarea-field .item{
+    resize: none;
+  }
+  textarea{
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 20px;
+    border-color: rgb(0, 0, 0);
+    border-width: 3px;
+    height: 10%;
+    width: 37%;
+  }
+  textarea:hover{
+    border-color:  #f704c2;
+  }
+  .btn-1{
+    margin-top: 10px;
+    cursor: pointer;
+    color: #ff0909;
+    font-size: 1rem;
+    border-radius: 7px;
+    border-color: black;
+    padding: 3px;
+    margin-bottom: 10px;
+  }
+  .btn-1:hover{
+    border-color: rgb(51, 251, 184);
+  }
+  /* .container{
+    width: 100%;
+    height: 50vh;
+    background: wheat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 400px;
+    border-radius: 1rem;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 0 10px 10px;
+    visibility: hidden;
+    transform: 0.5s, top 0.5s 
+  
+  } */
+  /* .open-popup{
+    visibility: visible;
+    top: 50%;
+  }
+  #tick-icon{
+    height: 35%;
+    width: 35%;
+  }
+  .container h3{
+    font-size: 1.6rem;
+    margin-top: 20px;
+  }
+  .container p{
+    font-size: 1rem;
+  }
+  .btn-2{
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    font-family:cursive;
+  } */
+  @media screen and (max-width:769px){
+    #contact{
+      align-items: center;
+    }
+    #contact form{
+      display: grid;
+    }
+    form .input-box{
+      display: grid;
+      margin-right: 5rem;
+    }
+    .input-field input{
+      width: 600%;
+    }
+    textarea{
+      height: 70%;
+      width: 80%;
+      margin-left: 20px;
+    }
+    .btn-1{
+      width: 33%;
+      margin: -3rem 0 0 10rem;
+    } 
+  }

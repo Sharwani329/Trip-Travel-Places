@@ -1,0 +1,66 @@
+body{
+    overflow-x: hidden;
+}
+#Tripcards{
+    display: flex;
+    overflow: hidden;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    position:static;
+    margin-top: 10rem;
+}
+#trip-card{
+    position: relative;
+    overflow: hidden;
+}
+.place-img{
+    position:static;
+    height: 40vh;
+    width: 60vh;
+    border: 2px solid brown;
+    box-shadow: 4px 5px 7px 0px rgb(88, 87, 87);
+    border-radius: 17px;
+    cursor: pointer;
+    margin: 10px;
+    transition: 400ms;
+}
+.place-img:hover{
+    transform: scale(1.03);
+}
+#trip-card .Img-details{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 70%;
+    background-color: rgba(248, 248, 248, 0.5);
+    cursor: pointer;
+    padding: 0.4rem;
+    transform: translateY(100%);
+    transition: .5s ease-in-out;
+
+}
+.Img-details{
+    text-align: center;
+}
+#trip-card:hover .Img-details{
+    transform: translateY(0);
+    
+}
+
+@media screen and (max-width:769px){
+    body{
+        overflow-x: hidden;
+    }
+    #Tripcards{
+        margin-top: -1rem;
+    }
+    #trip-card{
+        text-align: center;
+        margin-top: 1rem;
+    }
+    .place-img{
+        max-width: 300px;
+        width: 100%;
+    }
+}

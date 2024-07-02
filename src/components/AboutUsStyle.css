@@ -1,0 +1,19 @@
+#about-details{
+    margin-top: 10rem;
+}
+.aboutD{
+    margin-top: 12rem;
+    margin-left: 7px;
+}
+.aboutD h1{
+    color: brown;
+    font-family:cursive;
+    line-height: 20px;
+}
+.aboutD p{
+    margin-top: 13px;
+    font-size: 17px;
+    word-spacing: 3px;
+    line-height: 23px;
+    font-family: 'Times New Roman', Times, serif; 
+}

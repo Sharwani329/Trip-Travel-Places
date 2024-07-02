@@ -1,0 +1,16 @@
+*{
+  font-family: 'Poppins', sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-brand img{
+  width: 120px;
+}
+.hero-bg{
+  background-image: url(../src/assets/2865\ \(1\).jpg);
+  height: 100vh !important;
+  background-position: center;
+  background-size: cover;
+}
