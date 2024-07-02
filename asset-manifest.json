@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Trip-Travel-Places/static/css/main.f271a260.css",
+    "main.js": "/Trip-Travel-Places/static/js/main.c2ad8458.js",
+    "static/js/511.cb8047ce.chunk.js": "/Trip-Travel-Places/static/js/511.cb8047ce.chunk.js",
+    "static/media/home-bg.jpg": "/Trip-Travel-Places/static/media/home-bg.b433f02710c26d6b3a22.jpg",
+    "static/media/2865 (1).jpg": "/Trip-Travel-Places/static/media/2865 (1).286becc14d37b649d715.jpg",
+    "static/media/tour-img06.jpg": "/Trip-Travel-Places/static/media/tour-img06.61ab969a7f3f172fa8c0.jpg",
+    "static/media/tour-img05.jpg": "/Trip-Travel-Places/static/media/tour-img05.f86cd200463751a5e2ed.jpg",
+    "static/media/tour-img02.jpg": "/Trip-Travel-Places/static/media/tour-img02.4094c02b469d48da4dfb.jpg",
+    "static/media/tour-img03.jpg": "/Trip-Travel-Places/static/media/tour-img03.67d4e55212aa6fc6661c.jpg",
+    "static/media/tour-img07.jpg": "/Trip-Travel-Places/static/media/tour-img07.35a4d493feed183aa360.jpg",
+    "static/media/tour-img01.jpg": "/Trip-Travel-Places/static/media/tour-img01.ebe022b6df0c82aeec72.jpg",
+    "static/media/tour-img04.jpg": "/Trip-Travel-Places/static/media/tour-img04.e9b40920b0c3a962bce9.jpg",
+    "static/media/contact-img.png": "/Trip-Travel-Places/static/media/contact-img.e6452317271dbdc6111b.png",
+    "static/media/about-img.jpg": "/Trip-Travel-Places/static/media/about-img.bdd6b9e8f26c1ac8d933.jpg",
+    "static/media/travel-img2.jpeg": "/Trip-Travel-Places/static/media/travel-img2.85e52ab12f7d9f97ea83.jpeg",
+    "static/media/travel-Img.jpg": "/Trip-Travel-Places/static/media/travel-Img.ba45b46475911afba169.jpg",
+    "index.html": "/Trip-Travel-Places/index.html",
+    "main.f271a260.css.map": "/Trip-Travel-Places/static/css/main.f271a260.css.map",
+    "main.c2ad8458.js.map": "/Trip-Travel-Places/static/js/main.c2ad8458.js.map",
+    "511.cb8047ce.chunk.js.map": "/Trip-Travel-Places/static/js/511.cb8047ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f271a260.css",
+    "static/js/main.c2ad8458.js"
+  ]
+}
